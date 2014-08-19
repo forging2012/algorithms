@@ -154,7 +154,7 @@ Node* treeDelete(Node* root, Node* z) {
 			y->parent->left = x;
 		}
 		else {
-			y->parent->right = y;
+			y->parent->right = x;
 		}
 	}
 
