@@ -1,3 +1,3 @@
-###algorithms
+###Algorithms
 ==========
 Some basic algorithms.
